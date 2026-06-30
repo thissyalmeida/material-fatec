@@ -1,4 +1,4 @@
-![Banner](..\assets\images\banner.png)
+![Banner](https://github.com/thissyalmeida/material-fatec/blob/main/assets/images/banner.png?raw=true)
 
 # 🎓 PORTAL ACADÊMICO
 
