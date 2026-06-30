@@ -1,10 +1,12 @@
-site_name: Fatec Academic Framework
+site_name: Portal Acadêmico
 site_description: Portal Acadêmico da Profª Me. Thissiany Almeida
 site_author: Profª Me. Thissiany Almeida
 
 theme:
   name: material
   language: pt-BR
+
+  custom_dir: overrides
 
   palette:
 
@@ -39,6 +41,12 @@ theme:
 plugins:
   - search
 
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  generator: false
+
 markdown_extensions:
 
   - admonition
@@ -55,6 +63,10 @@ markdown_extensions:
 
   - pymdownx.tabbed:
       alternate_style: true
+  
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
 
