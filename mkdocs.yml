@@ -78,20 +78,14 @@ nav:
 
   - Disciplinas:
 
-      - Algoritmos e Lógica de Programação:
-          - Início: disciplinas/alp/index.md
+      - Algoritmos e Lógica de Programação: disciplinas/alp/index.md
 
-      - Aprendizagem de Máquina:
-          - Início: disciplinas/am/index.md
+      - Aprendizagem de Máquina: disciplinas/am/index.md
 
-      - Estrutura de Dados:
-          - Início: disciplinas/ed/index.md
+      - Estrutura de Dados: disciplinas/ed/index.md
 
-      - Matemática para Computação:
-          - Início: disciplinas/mc/index.md
+      - Matemática para Computação: disciplinas/mc/index.md
 
-      - Métodos para Produção do Conhecimento:
-          - Início: disciplinas/mpc/index.md
+      - Métodos para Produção do Conhecimento: disciplinas/mpc/index.md
 
-      - Processamento de Linguagem Natural:
-          - Início: disciplinas/pln/index.md
+      - Processamento de Linguagem Natural: disciplinas/pln/index.md

@@ -58,3 +58,17 @@
 .md-footer {
     background-color: #C8102E;
 }
+
+.banner-disciplina{
+
+    width:100%;
+
+    height:50%;
+
+    display:block;
+
+    margin:20px auto 40px auto;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+}

@@ -1,4 +1,4 @@
-![Banner](https://github.com/thissyalmeida/material-fatec/blob/main/assets/images/banner-alp.png?raw=true)
+<img src="../../assets/images/banner-alp.png" style="width:100%; height:230px;">
 
 # Bem-vindo(a)!
 
@@ -62,18 +62,8 @@
 
 </div>
 
-## 📢 Avisos
-
-!!! info "Bem-vindo!"
-
-    Este portal será atualizado continuamente durante o semestre.
-
-!!! tip "Dica"
-
-    Consulte o cronograma antes de cada aula para verificar os materiais e atividades previstas.
-
 ## 📈 Trilha de Aprendizagem
 
 Esta disciplina faz parte da trilha de formação em Computação.
 
-![Trilha](https://github.com/thissyalmeida/material-fatec/blob/main/assets/images/trilha-de-aprendizagem.png?raw=true)
+![Trilha](../../assets/images/trilha-de-aprendizagem.png)
