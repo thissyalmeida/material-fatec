@@ -1,3 +1,5 @@
+![Banner](https://github.com/thissyalmeida/material-fatec/blob/main/assets/images/banner-alp.png?raw=true)
+
 # ⚙️ Algoritmos e Lógica de Programação
 
 > **Curso:** Desenvolvimento de Software Multiplataforma (DSM)

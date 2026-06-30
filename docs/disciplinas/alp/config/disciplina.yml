@@ -1,0 +1,26 @@
+nome: Algoritmos e Lógica de Programação
+sigla: ALP
+
+curso: Desenvolvimento de Software Multiplataforma
+
+semestre: 1º semestre
+
+carga_horaria: 80 horas
+
+professora: Profª Me. Thissiany Almeida
+
+ano: 2026
+
+status: ativa
+
+cor: azul
+
+icone: material-code-braces
+
+banner: banner-alp.png
+
+thumb: thumb-alp.png
+
+github: https://github.com/SEU_USUARIO/materialAula-ALP
+
+github_pages: https://SEU_USUARIO.github.io/materialAula-ALP/
