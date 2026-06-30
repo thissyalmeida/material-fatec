@@ -1,5 +1,6 @@
 ![Banner](https://github.com/thissyalmeida/material-fatec/blob/main/assets/images/banner.png?raw=true)
 
+
 # 🎓 PORTAL ACADÊMICO
 
 Este portal foi desenvolvido utilizando **Material for MkDocs** e reúne todos os materiais das disciplinas ministradas pela Profª Me. Thissiany Almeida.
