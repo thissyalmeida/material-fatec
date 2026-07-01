@@ -1,2 +1,0 @@
-# material-fatec
-Ecossistema Acadêmico

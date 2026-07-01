@@ -72,20 +72,4 @@ nav:
 
   - Início: index.md
 
-  - Sobre: sobre.md
-
   - Contato: contato.md
-
-  - Disciplinas:
-
-      - Algoritmos e Lógica de Programação: disciplinas/alp/index.md
-
-      - Aprendizagem de Máquina: disciplinas/am/index.md
-
-      - Estrutura de Dados: disciplinas/ed/index.md
-
-      - Matemática para Computação: disciplinas/mc/index.md
-
-      - Métodos para Produção do Conhecimento: disciplinas/mpc/index.md
-
-      - Processamento de Linguagem Natural: disciplinas/pln/index.md

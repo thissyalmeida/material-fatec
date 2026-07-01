@@ -61,9 +61,3 @@
     Portal da disciplina.
 
 </div>
-
-## 📈 Trilha de Aprendizagem
-
-Esta disciplina faz parte da trilha de formação em Computação.
-
-![Trilha](../../assets/images/trilha-de-aprendizagem.png)
