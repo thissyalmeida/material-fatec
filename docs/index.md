@@ -9,7 +9,7 @@
 
 ## 🎯 Áreas de Conhecimento
 
-![Trilha](../../assets/images/trilha-de-aprendizagem.png)
+![Trilha](..\assets\images\trilha-de-aprendizagem.png)
 
 ## 📚 Disciplinas
 
